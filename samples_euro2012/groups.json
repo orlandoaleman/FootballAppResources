@@ -1,0 +1,28 @@
+{
+    "groups": {
+        "A": [
+            "pol", 
+            "gre", 
+            "rus", 
+            "cze"
+        ], 
+        "B": [
+            "ned", 
+            "den", 
+            "ger", 
+            "por"
+        ], 
+        "C": [
+            "esp", 
+            "ita", 
+            "irl", 
+            "cro"
+        ], 
+        "D": [
+            "fra", 
+            "eng", 
+            "ukr", 
+            "swe"
+        ]
+    }
+}

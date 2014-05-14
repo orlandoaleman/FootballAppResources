@@ -1,0 +1,32 @@
+{
+    "event": {
+        "key": "euro.2012", 
+        "title": "Euro 2012"
+    }, 
+    "games": [
+        {
+            "play_at": "2012/07/01", 
+            "score1": 4, 
+            "score1ot": null, 
+            "score1p": null, 
+            "score2": 0, 
+            "score2ot": null, 
+            "score2p": null, 
+            "team1_code": "ESP", 
+            "team1_key": "esp", 
+            "team1_slot": null, 
+            "team1_title": "Spain", 
+            "team2_code": "ITA", 
+            "team2_key": "ita", 
+            "team2_slot": null, 
+            "team2_title": "Italy", 
+            "title": "R6-1"
+        }
+    ], 
+    "round": {
+        "end_at": "2012/07/01", 
+        "pos": 6, 
+        "start_at": "2012/07/01", 
+        "title": "Final"
+    }
+}

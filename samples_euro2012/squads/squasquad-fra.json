@@ -1,0 +1,166 @@
+{
+    "coach": "Roy Hodgson", 
+    "players": [
+        {
+            "caps": 22, 
+            "captain": false, 
+            "name": "Joe Hart", 
+            "number": 1, 
+            "position": "GK"
+        }, 
+        {
+            "caps": 40, 
+            "captain": false, 
+            "name": "Glen Johnson", 
+            "number": 2, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 98, 
+            "captain": false, 
+            "name": "Ashley Cole", 
+            "number": 3, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 96, 
+            "captain": true, 
+            "name": "Steven Gerrard", 
+            "number": 4, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 1, 
+            "captain": false, 
+            "name": "Martin Kelly", 
+            "number": 5, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 77, 
+            "captain": false, 
+            "name": "John Terry", 
+            "number": 6, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 28, 
+            "captain": false, 
+            "name": "Theo Walcott", 
+            "number": 7, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 5, 
+            "captain": false, 
+            "name": "Jordan Henderson", 
+            "number": 8, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 7, 
+            "captain": false, 
+            "name": "Andy Carroll", 
+            "number": 9, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 76, 
+            "captain": false, 
+            "name": "Wayne Rooney", 
+            "number": 10, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 25, 
+            "captain": false, 
+            "name": "Ashley Young", 
+            "number": 11, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 8, 
+            "captain": false, 
+            "name": "Leighton Baines", 
+            "number": 12, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 12, 
+            "captain": false, 
+            "name": "Robert Green", 
+            "number": 13, 
+            "position": "GK"
+        }, 
+        {
+            "caps": 5, 
+            "captain": false, 
+            "name": "Phil Jones", 
+            "number": 14, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 20, 
+            "captain": false, 
+            "name": "Joleon Lescott", 
+            "number": 15, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 30, 
+            "captain": false, 
+            "name": "James Milner", 
+            "number": 16, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 17, 
+            "captain": false, 
+            "name": "Scott Parker", 
+            "number": 17, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 12, 
+            "captain": false, 
+            "name": "Phil Jagielka", 
+            "number": 18, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 34, 
+            "captain": false, 
+            "name": "Stewart Downing", 
+            "number": 19, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 5, 
+            "captain": false, 
+            "name": "Alex Oxlade-Chamberlain", 
+            "number": 20, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 48, 
+            "captain": false, 
+            "name": "Jermain Defoe", 
+            "number": 21, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 9, 
+            "captain": false, 
+            "name": "Danny Welbeck", 
+            "number": 22, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 0, 
+            "captain": false, 
+            "name": "Jack Butland", 
+            "number": 23, 
+            "position": "GK"
+        }
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "coach": "Bert van Marwijk", 
+    "players": [
+        {
+            "caps": 50, 
+            "captain": false, 
+            "name": "Maarten Stekelenburg", 
+            "number": 1, 
+            "position": "GK"
+        }, 
+        {
+            "caps": 35, 
+            "captain": false, 
+            "name": "Gregory van der Wiel", 
+            "number": 2, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 80, 
+            "captain": false, 
+            "name": "John Heitinga", 
+            "number": 3, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 82, 
+            "captain": false, 
+            "name": "Joris Mathijsen", 
+            "number": 4, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 37, 
+            "captain": false, 
+            "name": "Wilfred Bouma", 
+            "number": 5, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 79, 
+            "captain": true, 
+            "name": "Mark van Bommel", 
+            "number": 6, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 90, 
+            "captain": false, 
+            "name": "Dirk Kuyt", 
+            "number": 7, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 63, 
+            "captain": false, 
+            "name": "Nigel de Jong", 
+            "number": 8, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 56, 
+            "captain": false, 
+            "name": "Klaas-Jan Huntelaar", 
+            "number": 9, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 87, 
+            "captain": false, 
+            "name": "Wesley Sneijder", 
+            "number": 10, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 60, 
+            "captain": false, 
+            "name": "Arjen Robben", 
+            "number": 11, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 9, 
+            "captain": false, 
+            "name": "Michel Vorm", 
+            "number": 12, 
+            "position": "GK"
+        }, 
+        {
+            "caps": 9, 
+            "captain": false, 
+            "name": "Ron Vlaar", 
+            "number": 13, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 19, 
+            "captain": false, 
+            "name": "Stijn Schaars", 
+            "number": 14, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 5, 
+            "captain": false, 
+            "name": "Jetro Willems", 
+            "number": 15, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 68, 
+            "captain": false, 
+            "name": "Robin van Persie", 
+            "number": 16, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 11, 
+            "captain": false, 
+            "name": "Kevin Strootman", 
+            "number": 17, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 7, 
+            "captain": false, 
+            "name": "Luuk de Jong", 
+            "number": 18, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 2, 
+            "captain": false, 
+            "name": "Luciano Narsingh", 
+            "number": 19, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 41, 
+            "captain": false, 
+            "name": "Ibrahim Afellay", 
+            "number": 20, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 35, 
+            "captain": false, 
+            "name": "Khalid Boulahrouz", 
+            "number": 21, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 3, 
+            "captain": false, 
+            "name": "Tim Krul", 
+            "number": 22, 
+            "position": "GK"
+        }, 
+        {
+            "caps": 99, 
+            "captain": false, 
+            "name": "Rafael van der Vaart", 
+            "number": 23, 
+            "position": "MF"
+        }
+    ]
+}

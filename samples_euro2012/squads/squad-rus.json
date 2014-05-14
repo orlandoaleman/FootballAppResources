@@ -1,0 +1,166 @@
+{
+    "coach": "Franciszek Smuda", 
+    "players": [
+        {
+            "caps": 52, 
+            "captain": false, 
+            "name": "Igor Akinfeev", 
+            "number": 1, 
+            "position": "GK"
+        }, 
+        {
+            "caps": 68, 
+            "captain": false, 
+            "name": "Aleksandr Anyukov", 
+            "number": 2, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 8, 
+            "captain": false, 
+            "name": "Roman Sharonov", 
+            "number": 3, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 78, 
+            "captain": false, 
+            "name": "Sergei Ignashevich", 
+            "number": 4, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 55, 
+            "captain": false, 
+            "name": "Yuri Zhirkov", 
+            "number": 5, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 25, 
+            "captain": false, 
+            "name": "Roman Shirokov", 
+            "number": 6, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 29, 
+            "captain": false, 
+            "name": "Igor Denisov", 
+            "number": 7, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 52, 
+            "captain": false, 
+            "name": "Konstantin Zyryanov", 
+            "number": 8, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 35, 
+            "captain": false, 
+            "name": "Marat Izmailov", 
+            "number": 9, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 74, 
+            "captain": true, 
+            "name": "Andrei Arshavin", 
+            "number": 10, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 64, 
+            "captain": false, 
+            "name": "Aleksandr Kerzhakov", 
+            "number": 11, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 51, 
+            "captain": false, 
+            "name": "Aleksei Berezutski", 
+            "number": 12, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 2, 
+            "captain": false, 
+            "name": "Anton Shunin", 
+            "number": 13, 
+            "position": "GK"
+        }, 
+        {
+            "caps": 50, 
+            "captain": false, 
+            "name": "Roman Pavlyuchenko", 
+            "number": 14, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 4, 
+            "captain": false, 
+            "name": "Dmitri Kombarov", 
+            "number": 15, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 28, 
+            "captain": false, 
+            "name": "Vyacheslav Malafeev", 
+            "number": 16, 
+            "position": "GK"
+        }, 
+        {
+            "caps": 23, 
+            "captain": false, 
+            "name": "Alan Dzagoev", 
+            "number": 17, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 6, 
+            "captain": false, 
+            "name": "Aleksandr Kokorin", 
+            "number": 18, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 0, 
+            "captain": false, 
+            "name": "Vladimir Granat", 
+            "number": 19, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 33, 
+            "captain": false, 
+            "name": "Pavel Pogrebnyak", 
+            "number": 20, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 1, 
+            "captain": false, 
+            "name": "Kirill Nababkin", 
+            "number": 21, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 10, 
+            "captain": false, 
+            "name": "Denis Glushakov", 
+            "number": 22, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 57, 
+            "captain": false, 
+            "name": "Igor Semshov", 
+            "number": 23, 
+            "position": "MF"
+        }
+    ]
+}

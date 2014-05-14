@@ -1,0 +1,166 @@
+{
+    "coach": "Franciszek Smuda", 
+    "players": [
+        {
+            "caps": 11, 
+            "captain": false, 
+            "name": "Wojciech Szcz\u0119sny", 
+            "number": 1, 
+            "position": "GK"
+        }, 
+        {
+            "caps": 9, 
+            "captain": false, 
+            "name": "Sebastian Boenisch", 
+            "number": 2, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 19, 
+            "captain": false, 
+            "name": "Grzegorz Wojtkowiak", 
+            "number": 3, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 3, 
+            "captain": false, 
+            "name": "Marcin Kami\u0144ski", 
+            "number": 4, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 65, 
+            "captain": false, 
+            "name": "Dariusz Dudka", 
+            "number": 5, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 20, 
+            "captain": false, 
+            "name": "Adam Matuszczyk", 
+            "number": 6, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 11, 
+            "captain": false, 
+            "name": "Eugen Polanski", 
+            "number": 7, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 22, 
+            "captain": false, 
+            "name": "Maciej Rybus", 
+            "number": 8, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 45, 
+            "captain": false, 
+            "name": "Robert Lewandowski", 
+            "number": 9, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 26, 
+            "captain": false, 
+            "name": "Ludovic Obraniak", 
+            "number": 10, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 46, 
+            "captain": false, 
+            "name": "Rafa\u0142 Murawski", 
+            "number": 11, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 3, 
+            "captain": false, 
+            "name": "Grzegorz Sandomierski", 
+            "number": 12, 
+            "position": "GK"
+        }, 
+        {
+            "caps": 51, 
+            "captain": false, 
+            "name": "Marcin Wasilewski", 
+            "number": 13, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 26, 
+            "captain": false, 
+            "name": "Jakub Wawrzyniak", 
+            "number": 14, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 10, 
+            "captain": false, 
+            "name": "Damien Perquis", 
+            "number": 15, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 54, 
+            "captain": true, 
+            "name": "Jakub B\u0142aszczykowski", 
+            "number": 16, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 5, 
+            "captain": false, 
+            "name": "Artur Sobiech", 
+            "number": 17, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 25, 
+            "captain": false, 
+            "name": "Adrian Mierzejewski", 
+            "number": 18, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 3, 
+            "captain": false, 
+            "name": "Rafa\u0142 Wolski", 
+            "number": 19, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 27, 
+            "captain": false, 
+            "name": "\u0141ukasz Piszczek", 
+            "number": 20, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 14, 
+            "captain": false, 
+            "name": "Kamil Grosicki", 
+            "number": 21, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 8, 
+            "captain": false, 
+            "name": "Przemys\u0142aw Tyto\u0144", 
+            "number": 22, 
+            "position": "GK"
+        }, 
+        {
+            "caps": 36, 
+            "captain": false, 
+            "name": "Pawe\u0142 Bro\u017cek", 
+            "number": 23, 
+            "position": "FW"
+        }
+    ]
+}

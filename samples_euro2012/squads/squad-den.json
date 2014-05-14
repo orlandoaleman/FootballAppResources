@@ -1,0 +1,166 @@
+{
+    "coach": "Morten Olsen", 
+    "players": [
+        {
+            "caps": 13, 
+            "captain": false, 
+            "name": "Stephan Andersen", 
+            "number": 1, 
+            "position": "GK"
+        }, 
+        {
+            "caps": 92, 
+            "captain": false, 
+            "name": "Christian Poulsen", 
+            "number": 2, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 27, 
+            "captain": false, 
+            "name": "Simon Kj\u00e6r", 
+            "number": 3, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 49, 
+            "captain": true, 
+            "name": "Daniel Agger", 
+            "number": 4, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 21, 
+            "captain": false, 
+            "name": "Simon Poulsen", 
+            "number": 5, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 53, 
+            "captain": false, 
+            "name": "Lars Jacobsen", 
+            "number": 6, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 31, 
+            "captain": false, 
+            "name": "William Kvist", 
+            "number": 7, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 26, 
+            "captain": false, 
+            "name": "Christian Eriksen", 
+            "number": 8, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 24, 
+            "captain": false, 
+            "name": "Michael Krohn-Dehli", 
+            "number": 9, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 118, 
+            "captain": false, 
+            "name": "Dennis Rommedahl", 
+            "number": 10, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 51, 
+            "captain": false, 
+            "name": "Nicklas Bendtner", 
+            "number": 11, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 6, 
+            "captain": false, 
+            "name": "Andreas Bjelland", 
+            "number": 12, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 3, 
+            "captain": false, 
+            "name": "Jores Okore", 
+            "number": 13, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 12, 
+            "captain": false, 
+            "name": "Lasse Sch\u00f8ne", 
+            "number": 14, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 24, 
+            "captain": false, 
+            "name": "Michael Silberbauer", 
+            "number": 15, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 5, 
+            "captain": false, 
+            "name": "Anders Lindegaard", 
+            "number": 16, 
+            "position": "GK"
+        }, 
+        {
+            "caps": 7, 
+            "captain": false, 
+            "name": "Nicklas Pedersen", 
+            "number": 17, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 6, 
+            "captain": false, 
+            "name": "Daniel Wass", 
+            "number": 18, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 24, 
+            "captain": false, 
+            "name": "Jakob Poulsen", 
+            "number": 19, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 38, 
+            "captain": false, 
+            "name": "Thomas Kahlenberg", 
+            "number": 20, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 14, 
+            "captain": false, 
+            "name": "Niki Zimling", 
+            "number": 21, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 0, 
+            "captain": false, 
+            "name": "Kasper Schmeichel", 
+            "number": 22, 
+            "position": "GK"
+        }, 
+        {
+            "caps": 6, 
+            "captain": false, 
+            "name": "Tobias Mikkelsen", 
+            "number": 23, 
+            "position": "MF"
+        }
+    ]
+}

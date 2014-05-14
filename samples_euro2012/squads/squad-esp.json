@@ -1,0 +1,120 @@
+{
+    "coach": "Vicente del Bosque", 
+    "players": [
+        {
+            "captain": true, 
+            "name": "Iker Casillas", 
+            "number": 1
+        }, 
+        {
+            "captain": false, 
+            "name": "Ra\u00fal Albiol", 
+            "number": 2
+        }, 
+        {
+            "captain": false, 
+            "name": "Gerard Piqu\u00e9", 
+            "number": 3
+        }, 
+        {
+            "captain": false, 
+            "name": "Javi Mart\u00ednez", 
+            "number": 4
+        }, 
+        {
+            "captain": false, 
+            "name": "Juanfran Torres", 
+            "number": 5
+        }, 
+        {
+            "captain": false, 
+            "name": "Andr\u00e9s Iniesta", 
+            "number": 6
+        }, 
+        {
+            "captain": false, 
+            "name": "Pedro Rodr\u00edguez", 
+            "number": 7
+        }, 
+        {
+            "captain": false, 
+            "name": "Xavi Hern\u00e1ndez", 
+            "number": 8
+        }, 
+        {
+            "captain": false, 
+            "name": "Fernando Torres", 
+            "number": 9
+        }, 
+        {
+            "captain": false, 
+            "name": "Cesc F\u00e0bregas", 
+            "number": 10
+        }, 
+        {
+            "captain": false, 
+            "name": "\u00c1lvaro Negredo", 
+            "number": 11
+        }, 
+        {
+            "captain": false, 
+            "name": "V\u00edctor Vald\u00e9s", 
+            "number": 12
+        }, 
+        {
+            "captain": false, 
+            "name": "Juan Mata", 
+            "number": 13
+        }, 
+        {
+            "captain": false, 
+            "name": "Xabi Alonso", 
+            "number": 14
+        }, 
+        {
+            "captain": false, 
+            "name": "Sergio Ramos", 
+            "number": 15
+        }, 
+        {
+            "captain": false, 
+            "name": "Sergio Busquets", 
+            "number": 16
+        }, 
+        {
+            "captain": false, 
+            "name": "\u00c1lvaro Arbeloa", 
+            "number": 17
+        }, 
+        {
+            "captain": false, 
+            "name": "Jordi Alba", 
+            "number": 18
+        }, 
+        {
+            "captain": false, 
+            "name": "Fernando Llorente", 
+            "number": 19
+        }, 
+        {
+            "captain": false, 
+            "name": "Santi Cazorla", 
+            "number": 20
+        }, 
+        {
+            "captain": false, 
+            "name": "David Silva", 
+            "number": 21
+        }, 
+        {
+            "captain": false, 
+            "name": "Jes\u00fas Navas", 
+            "number": 22
+        }, 
+        {
+            "captain": false, 
+            "name": "Pepe Reina", 
+            "number": 23
+        }
+    ]
+}

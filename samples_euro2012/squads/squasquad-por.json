@@ -1,0 +1,166 @@
+{
+    "coach": "Paulo Bento", 
+    "players": [
+        {
+            "caps": 28, 
+            "captain": false, 
+            "name": "Eduardo", 
+            "number": 1, 
+            "position": "GK"
+        }, 
+        {
+            "caps": 55, 
+            "captain": false, 
+            "name": "Bruno Alves", 
+            "number": 2, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 44, 
+            "captain": false, 
+            "name": "Pepe", 
+            "number": 3, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 29, 
+            "captain": false, 
+            "name": "Miguel Veloso", 
+            "number": 4, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 27, 
+            "captain": false, 
+            "name": "F\u00e1bio Coentr\u00e3o", 
+            "number": 5, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 4, 
+            "captain": false, 
+            "name": "Cust\u00f3dio", 
+            "number": 6, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 95, 
+            "captain": true, 
+            "name": "Cristiano Ronaldo", 
+            "number": 7, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 48, 
+            "captain": false, 
+            "name": "Jo\u00e3o Moutinho", 
+            "number": 8, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 44, 
+            "captain": false, 
+            "name": "Hugo Almeida", 
+            "number": 9, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 35, 
+            "captain": false, 
+            "name": "Ricardo Quaresma", 
+            "number": 10, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 7, 
+            "captain": false, 
+            "name": "N\u00e9lson Oliveira", 
+            "number": 11, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 16, 
+            "captain": false, 
+            "name": "Rui Patr\u00edcio", 
+            "number": 12, 
+            "position": "GK"
+        }, 
+        {
+            "caps": 11, 
+            "captain": false, 
+            "name": "Ricardo Costa", 
+            "number": 13, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 17, 
+            "captain": false, 
+            "name": "Rolando", 
+            "number": 14, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 8, 
+            "captain": false, 
+            "name": "R\u00faben Micael", 
+            "number": 15, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 61, 
+            "captain": false, 
+            "name": "Raul Meireles", 
+            "number": 16, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 59, 
+            "captain": false, 
+            "name": "Nani", 
+            "number": 17, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 9, 
+            "captain": false, 
+            "name": "Silvestre Varela", 
+            "number": 18, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 1, 
+            "captain": false, 
+            "name": "Miguel Lopes", 
+            "number": 19, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 27, 
+            "captain": false, 
+            "name": "Hugo Viana", 
+            "number": 20, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 19, 
+            "captain": false, 
+            "name": "Jo\u00e3o Pereira", 
+            "number": 21, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 2, 
+            "captain": false, 
+            "name": "Beto", 
+            "number": 22, 
+            "position": "GK"
+        }, 
+        {
+            "caps": 53, 
+            "captain": false, 
+            "name": "H\u00e9lder Postiga", 
+            "number": 23, 
+            "position": "FW"
+        }
+    ]
+}

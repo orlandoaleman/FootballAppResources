@@ -1,0 +1,166 @@
+{
+    "coach": "Cesare Prandelli", 
+    "players": [
+        {
+            "caps": 125, 
+            "captain": false, 
+            "name": "Shay Given", 
+            "number": 1, 
+            "position": "GK"
+        }, 
+        {
+            "caps": 30, 
+            "captain": false, 
+            "name": "Sean St Ledger", 
+            "number": 2, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 15, 
+            "captain": false, 
+            "name": "Stephen Ward", 
+            "number": 3, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 79, 
+            "captain": false, 
+            "name": "John O'Shea", 
+            "number": 4, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 76, 
+            "captain": false, 
+            "name": "Richard Dunne", 
+            "number": 5, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 42, 
+            "captain": false, 
+            "name": "Glenn Whelan", 
+            "number": 6, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 52, 
+            "captain": false, 
+            "name": "Aiden McGeady", 
+            "number": 7, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 32, 
+            "captain": false, 
+            "name": "Keith Andrews", 
+            "number": 8, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 50, 
+            "captain": false, 
+            "name": "Kevin Doyle", 
+            "number": 9, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 120, 
+            "captain": true, 
+            "name": "Robbie Keane", 
+            "number": 10, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 100, 
+            "captain": false, 
+            "name": "Damien Duff", 
+            "number": 11, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 30, 
+            "captain": false, 
+            "name": "Stephen Kelly", 
+            "number": 12, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 27, 
+            "captain": false, 
+            "name": "Paul McShane", 
+            "number": 13, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 10, 
+            "captain": false, 
+            "name": "Jonathan Walters", 
+            "number": 14, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 19, 
+            "captain": false, 
+            "name": "Darron Gibson", 
+            "number": 15, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 10, 
+            "captain": false, 
+            "name": "Keiren Westwood", 
+            "number": 16, 
+            "position": "GK"
+        }, 
+        {
+            "caps": 39, 
+            "captain": false, 
+            "name": "Stephen Hunt", 
+            "number": 17, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 14, 
+            "captain": false, 
+            "name": "Darren O'Dea", 
+            "number": 18, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 27, 
+            "captain": false, 
+            "name": "Shane Long", 
+            "number": 19, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 15, 
+            "captain": false, 
+            "name": "Simon Cox", 
+            "number": 20, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 12, 
+            "captain": false, 
+            "name": "Paul Green", 
+            "number": 21, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 3, 
+            "captain": false, 
+            "name": "James McClean", 
+            "number": 22, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 2, 
+            "captain": false, 
+            "name": "David Forde", 
+            "number": 23, 
+            "position": "GK"
+        }
+    ]
+}

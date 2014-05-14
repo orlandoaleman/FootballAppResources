@@ -1,0 +1,166 @@
+{
+    "coach": "Oleh Blokhin", 
+    "players": [
+        {
+            "caps": 1, 
+            "captain": false, 
+            "name": "Maksym Koval", 
+            "number": 1, 
+            "position": "GK"
+        }, 
+        {
+            "caps": 9, 
+            "captain": false, 
+            "name": "Yevhen Selin", 
+            "number": 2, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 14, 
+            "captain": false, 
+            "name": "Yevhen Khacheridi", 
+            "number": 3, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 119, 
+            "captain": false, 
+            "name": "Anatoliy Tymoshchuk", 
+            "number": 4, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 29, 
+            "captain": false, 
+            "name": "Oleksandr Kucher", 
+            "number": 5, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 6, 
+            "captain": false, 
+            "name": "Denys Harmash", 
+            "number": 6, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 111, 
+            "captain": true, 
+            "name": "Andriy Shevchenko", 
+            "number": 7, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 28, 
+            "captain": false, 
+            "name": "Oleksandr Aliyev", 
+            "number": 8, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 75, 
+            "captain": false, 
+            "name": "Oleh Husyev", 
+            "number": 9, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 74, 
+            "captain": false, 
+            "name": "Andriy Voronin", 
+            "number": 10, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 23, 
+            "captain": false, 
+            "name": "Andriy Yarmolenko", 
+            "number": 11, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 29, 
+            "captain": false, 
+            "name": "Andriy Pyatov", 
+            "number": 12, 
+            "position": "GK"
+        }, 
+        {
+            "caps": 21, 
+            "captain": false, 
+            "name": "Vyacheslav Shevchuk", 
+            "number": 13, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 59, 
+            "captain": false, 
+            "name": "Ruslan Rotan", 
+            "number": 14, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 49, 
+            "captain": false, 
+            "name": "Artem Milevskyi", 
+            "number": 15, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 29, 
+            "captain": false, 
+            "name": "Yevhen Seleznyov", 
+            "number": 16, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 29, 
+            "captain": false, 
+            "name": "Taras Mykhalyk", 
+            "number": 17, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 53, 
+            "captain": false, 
+            "name": "Serhiy Nazarenko", 
+            "number": 18, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 22, 
+            "captain": false, 
+            "name": "Yevhen Konoplyanka", 
+            "number": 19, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 18, 
+            "captain": false, 
+            "name": "Yaroslav Rakitskyi", 
+            "number": 20, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 11, 
+            "captain": false, 
+            "name": "Bohdan Butko", 
+            "number": 21, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 24, 
+            "captain": false, 
+            "name": "Marko Devi\u0107", 
+            "number": 22, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 2, 
+            "captain": false, 
+            "name": "Oleksandr Horyainov", 
+            "number": 23, 
+            "position": "GK"
+        }
+    ]
+}

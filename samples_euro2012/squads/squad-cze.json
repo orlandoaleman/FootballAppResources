@@ -1,0 +1,166 @@
+{
+    "coach": "Michal B\u00edlek", 
+    "players": [
+        {
+            "caps": 94, 
+            "captain": false, 
+            "name": "Petr \u010cech", 
+            "number": 1, 
+            "position": "GK"
+        }, 
+        {
+            "caps": 14, 
+            "captain": false, 
+            "name": "Theodor Gebre Selassie", 
+            "number": 2, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 38, 
+            "captain": false, 
+            "name": "Michal Kadlec", 
+            "number": 3, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 4, 
+            "captain": false, 
+            "name": "Marek Such\u00fd", 
+            "number": 4, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 23, 
+            "captain": false, 
+            "name": "Roman Hubn\u00edk", 
+            "number": 5, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 30, 
+            "captain": false, 
+            "name": "Tom\u00e1\u0161 Sivok", 
+            "number": 6, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 26, 
+            "captain": false, 
+            "name": "Tom\u00e1\u0161 Necid", 
+            "number": 7, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 12, 
+            "captain": false, 
+            "name": "David Limbersk\u00fd", 
+            "number": 8, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 16, 
+            "captain": false, 
+            "name": "Jan Rezek", 
+            "number": 9, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 87, 
+            "captain": true, 
+            "name": "Tom\u00e1\u0161 Rosick\u00fd", 
+            "number": 10, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 11, 
+            "captain": false, 
+            "name": "Milan Petr\u017eela", 
+            "number": 11, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 5, 
+            "captain": false, 
+            "name": "Franti\u0161ek Rajtoral", 
+            "number": 12, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 75, 
+            "captain": false, 
+            "name": "Jaroslav Pla\u0161il", 
+            "number": 13, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 13, 
+            "captain": false, 
+            "name": "V\u00e1clav Pila\u0159", 
+            "number": 14, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 93, 
+            "captain": false, 
+            "name": "Milan Baro\u0161", 
+            "number": 15, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 1, 
+            "captain": false, 
+            "name": "Jan La\u0161t\u016fvka", 
+            "number": 16, 
+            "position": "GK"
+        }, 
+        {
+            "caps": 47, 
+            "captain": false, 
+            "name": "Tom\u00e1\u0161 H\u00fcbschman", 
+            "number": 17, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 13, 
+            "captain": false, 
+            "name": "Daniel Kol\u00e1\u0159", 
+            "number": 18, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 12, 
+            "captain": false, 
+            "name": "Petr Jir\u00e1\u010dek", 
+            "number": 19, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 13, 
+            "captain": false, 
+            "name": "Tom\u00e1\u0161 Pekhart", 
+            "number": 20, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 19, 
+            "captain": false, 
+            "name": "David Lafata", 
+            "number": 21, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 3, 
+            "captain": false, 
+            "name": "Vladim\u00edr Darida", 
+            "number": 22, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 6, 
+            "captain": false, 
+            "name": "Jaroslav Drobn\u00fd", 
+            "number": 23, 
+            "position": "GK"
+        }
+    ]
+}

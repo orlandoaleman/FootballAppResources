@@ -1,0 +1,166 @@
+{
+    "coach": "Slaven Bili\u0107", 
+    "players": [
+        {
+            "caps": 94, 
+            "captain": false, 
+            "name": "Stipe Pletikosa", 
+            "number": 1, 
+            "position": "GK"
+        }, 
+        {
+            "caps": 20, 
+            "captain": false, 
+            "name": "Ivan Strini\u0107", 
+            "number": 2, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 95, 
+            "captain": false, 
+            "name": "Josip \u0160imuni\u0107", 
+            "number": 3, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 2, 
+            "captain": false, 
+            "name": "Jurica Buljat", 
+            "number": 4, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 57, 
+            "captain": false, 
+            "name": "Vedran \u0106orluka", 
+            "number": 5, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 45, 
+            "captain": false, 
+            "name": "Danijel Pranji\u0107", 
+            "number": 6, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 44, 
+            "captain": false, 
+            "name": "Ivan Rakiti\u0107", 
+            "number": 7, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 42, 
+            "captain": false, 
+            "name": "Ognjen Vukojevi\u0107", 
+            "number": 8, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 22, 
+            "captain": false, 
+            "name": "Nikica Jelavi\u0107", 
+            "number": 9, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 57, 
+            "captain": false, 
+            "name": "Luka Modri\u0107", 
+            "number": 10, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 94, 
+            "captain": true, 
+            "name": "Darijo Srna", 
+            "number": 11, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 0, 
+            "captain": false, 
+            "name": "Ivan Kelava", 
+            "number": 12, 
+            "position": "GK"
+        }, 
+        {
+            "caps": 15, 
+            "captain": false, 
+            "name": "Gordon Schildenfeld", 
+            "number": 13, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 4, 
+            "captain": false, 
+            "name": "Milan Badelj", 
+            "number": 14, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 4, 
+            "captain": false, 
+            "name": "\u0160ime Vrsaljko", 
+            "number": 15, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 19, 
+            "captain": false, 
+            "name": "Tomislav Dujmovi\u0107", 
+            "number": 16, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 32, 
+            "captain": false, 
+            "name": "Mario Mand\u017euki\u0107", 
+            "number": 17, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 13, 
+            "captain": false, 
+            "name": "Nikola Kalini\u0107", 
+            "number": 18, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 73, 
+            "captain": false, 
+            "name": "Niko Kranj\u010dar", 
+            "number": 19, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 13, 
+            "captain": false, 
+            "name": "Ivan Peri\u0161i\u0107", 
+            "number": 20, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 11, 
+            "captain": false, 
+            "name": "Domagoj Vida", 
+            "number": 21, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 50, 
+            "captain": false, 
+            "name": "Eduardo", 
+            "number": 22, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 4, 
+            "captain": false, 
+            "name": "Danijel Suba\u0161i\u0107", 
+            "number": 23, 
+            "position": "GK"
+        }
+    ]
+}

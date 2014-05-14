@@ -1,0 +1,166 @@
+{
+    "coach": "Erik Hamr\u00e9n", 
+    "players": [
+        {
+            "caps": 93, 
+            "captain": false, 
+            "name": "Andreas Isaksson", 
+            "number": 1, 
+            "position": "GK"
+        }, 
+        {
+            "caps": 24, 
+            "captain": false, 
+            "name": "Mikael Lustig", 
+            "number": 2, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 114, 
+            "captain": false, 
+            "name": "Olof Mellberg", 
+            "number": 3, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 18, 
+            "captain": false, 
+            "name": "Andreas Granqvist", 
+            "number": 4, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 9, 
+            "captain": false, 
+            "name": "Martin Olsson", 
+            "number": 5, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 24, 
+            "captain": false, 
+            "name": "Rasmus Elm", 
+            "number": 6, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 41, 
+            "captain": false, 
+            "name": "Sebastian Larsson", 
+            "number": 7, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 127, 
+            "captain": false, 
+            "name": "Anders Svensson", 
+            "number": 8, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 92, 
+            "captain": false, 
+            "name": "Kim K\u00e4llstr\u00f6m", 
+            "number": 9, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 77, 
+            "captain": true, 
+            "name": "Zlatan Ibrahimovi\u0107", 
+            "number": 10, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 63, 
+            "captain": false, 
+            "name": "Johan Elmander", 
+            "number": 11, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 8, 
+            "captain": false, 
+            "name": "Johan Wiland", 
+            "number": 12, 
+            "position": "GK"
+        }, 
+        {
+            "caps": 8, 
+            "captain": false, 
+            "name": "Jonas Olsson", 
+            "number": 13, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 23, 
+            "captain": false, 
+            "name": "Tobias Hys\u00e9n", 
+            "number": 14, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 5, 
+            "captain": false, 
+            "name": "Mikael Antonsson", 
+            "number": 15, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 23, 
+            "captain": false, 
+            "name": "Pontus Wernbloom", 
+            "number": 16, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 24, 
+            "captain": false, 
+            "name": "Behrang Safari", 
+            "number": 17, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 27, 
+            "captain": false, 
+            "name": "Samuel Holm\u00e9n", 
+            "number": 18, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 16, 
+            "captain": false, 
+            "name": "Emir Bajrami", 
+            "number": 19, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 24, 
+            "captain": false, 
+            "name": "Ola Toivonen", 
+            "number": 20, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 74, 
+            "captain": false, 
+            "name": "Christian Wilhelmsson", 
+            "number": 21, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 31, 
+            "captain": false, 
+            "name": "Markus Rosenberg", 
+            "number": 22, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 2, 
+            "captain": false, 
+            "name": "P\u00e4r Hansson", 
+            "number": 23, 
+            "position": "GK"
+        }
+    ]
+}

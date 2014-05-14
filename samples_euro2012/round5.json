@@ -1,0 +1,50 @@
+{
+    "event": {
+        "key": "euro.2012", 
+        "title": "Euro 2012"
+    }, 
+    "games": [
+        {
+            "play_at": "2012/06/27", 
+            "score1": 0, 
+            "score1ot": 0, 
+            "score1p": 2, 
+            "score2": 0, 
+            "score2ot": 0, 
+            "score2p": 4, 
+            "team1_code": "POR", 
+            "team1_key": "por", 
+            "team1_slot": null, 
+            "team1_title": "Portugal", 
+            "team2_code": "ESP", 
+            "team2_key": "esp", 
+            "team2_slot": null, 
+            "team2_title": "Spain", 
+            "title": "R5-1"
+        }, 
+        {
+            "play_at": "2012/06/28", 
+            "score1": 1, 
+            "score1ot": null, 
+            "score1p": null, 
+            "score2": 2, 
+            "score2ot": null, 
+            "score2p": null, 
+            "team1_code": "GER", 
+            "team1_key": "ger", 
+            "team1_slot": null, 
+            "team1_title": "Germany", 
+            "team2_code": "ITA", 
+            "team2_key": "ita", 
+            "team2_slot": null, 
+            "team2_title": "Italy", 
+            "title": "R5-2"
+        }
+    ], 
+    "round": {
+        "end_at": "2012/06/28", 
+        "pos": 5, 
+        "start_at": "2012/06/27", 
+        "title": "Semi-finals"
+    }
+}

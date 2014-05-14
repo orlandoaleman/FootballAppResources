@@ -1,0 +1,166 @@
+{
+    "coach": "Laurent Blanc", 
+    "players": [
+        {
+            "caps": 37, 
+            "captain": true, 
+            "name": "Hugo Lloris", 
+            "number": 1, 
+            "position": "GK"
+        }, 
+        {
+            "caps": 9, 
+            "captain": false, 
+            "name": "Mathieu Debuchy", 
+            "number": 2, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 42, 
+            "captain": false, 
+            "name": "Patrice Evra", 
+            "number": 3, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 24, 
+            "captain": false, 
+            "name": "Adil Rami", 
+            "number": 4, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 29, 
+            "captain": false, 
+            "name": "Philippe Mex\u00e8s", 
+            "number": 5, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 16, 
+            "captain": false, 
+            "name": "Yohan Cabaye", 
+            "number": 6, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 64, 
+            "captain": false, 
+            "name": "Franck Rib\u00e9ry", 
+            "number": 7, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 12, 
+            "captain": false, 
+            "name": "Mathieu Valbuena", 
+            "number": 8, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 9, 
+            "captain": false, 
+            "name": "Olivier Giroud", 
+            "number": 9, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 49, 
+            "captain": false, 
+            "name": "Karim Benzema", 
+            "number": 10, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 35, 
+            "captain": false, 
+            "name": "Samir Nasri", 
+            "number": 11, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 4, 
+            "captain": false, 
+            "name": "Blaise Matuidi", 
+            "number": 12, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 18, 
+            "captain": false, 
+            "name": "Anthony R\u00e9veill\u00e8re", 
+            "number": 13, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 16, 
+            "captain": false, 
+            "name": "J\u00e9r\u00e9my M\u00e9nez", 
+            "number": 14, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 80, 
+            "captain": false, 
+            "name": "Florent Malouda", 
+            "number": 15, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 15, 
+            "captain": false, 
+            "name": "Steve Mandanda", 
+            "number": 16, 
+            "position": "GK"
+        }, 
+        {
+            "caps": 22, 
+            "captain": false, 
+            "name": "Yann M'Vila", 
+            "number": 17, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 44, 
+            "captain": false, 
+            "name": "Alou Diarra", 
+            "number": 18, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 14, 
+            "captain": false, 
+            "name": "Marvin Martin", 
+            "number": 19, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 13, 
+            "captain": false, 
+            "name": "Hatem Ben Arfa", 
+            "number": 20, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 4, 
+            "captain": false, 
+            "name": "Laurent Koscielny", 
+            "number": 21, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 15, 
+            "captain": false, 
+            "name": "Ga\u00ebl Clichy", 
+            "number": 22, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 1, 
+            "captain": false, 
+            "name": "C\u00e9dric Carrasso", 
+            "number": 23, 
+            "position": "GK"
+        }
+    ]
+}

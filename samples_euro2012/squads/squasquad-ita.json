@@ -1,0 +1,120 @@
+{
+    "coach": "Cesare Prandelli", 
+    "players": [
+        {
+            "captain": true, 
+            "name": "Gianluigi Buffon", 
+            "number": 1
+        }, 
+        {
+            "captain": false, 
+            "name": "Christian Maggio", 
+            "number": 2
+        }, 
+        {
+            "captain": false, 
+            "name": "Giorgio Chiellini", 
+            "number": 3
+        }, 
+        {
+            "captain": false, 
+            "name": "Angelo Ogbonna", 
+            "number": 4
+        }, 
+        {
+            "captain": false, 
+            "name": "Thiago Motta", 
+            "number": 5
+        }, 
+        {
+            "captain": false, 
+            "name": "Federico Balzaretti", 
+            "number": 6
+        }, 
+        {
+            "captain": false, 
+            "name": "Ignazio Abate", 
+            "number": 7
+        }, 
+        {
+            "captain": false, 
+            "name": "Claudio Marchisio", 
+            "number": 8
+        }, 
+        {
+            "captain": false, 
+            "name": "Mario Balotelli", 
+            "number": 9
+        }, 
+        {
+            "captain": false, 
+            "name": "Antonio Cassano", 
+            "number": 10
+        }, 
+        {
+            "captain": false, 
+            "name": "Antonio Di Natale", 
+            "number": 11
+        }, 
+        {
+            "captain": false, 
+            "name": "Salvatore Sirigu", 
+            "number": 12
+        }, 
+        {
+            "captain": false, 
+            "name": "Emanuele Giaccherini", 
+            "number": 13
+        }, 
+        {
+            "captain": false, 
+            "name": "Morgan De Sanctis", 
+            "number": 14
+        }, 
+        {
+            "captain": false, 
+            "name": "Andrea Barzagli", 
+            "number": 15
+        }, 
+        {
+            "captain": false, 
+            "name": "Daniele De Rossi", 
+            "number": 16
+        }, 
+        {
+            "captain": false, 
+            "name": "Fabio Borini", 
+            "number": 17
+        }, 
+        {
+            "captain": false, 
+            "name": "Riccardo Montolivo", 
+            "number": 18
+        }, 
+        {
+            "captain": false, 
+            "name": "Leonardo Bonucci", 
+            "number": 19
+        }, 
+        {
+            "captain": false, 
+            "name": "Sebastian Giovinco", 
+            "number": 20
+        }, 
+        {
+            "captain": false, 
+            "name": "Andrea Pirlo", 
+            "number": 21
+        }, 
+        {
+            "captain": false, 
+            "name": "Alessandro Diamanti", 
+            "number": 22
+        }, 
+        {
+            "captain": false, 
+            "name": "Antonio Nocerino", 
+            "number": 23
+        }
+    ]
+}

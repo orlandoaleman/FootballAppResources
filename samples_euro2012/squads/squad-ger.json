@@ -1,0 +1,166 @@
+{
+    "coach": "Joachim L\u00f6w", 
+    "players": [
+        {
+            "caps": 31, 
+            "captain": false, 
+            "name": "Manuel Neuer", 
+            "number": 1, 
+            "position": "GK"
+        }, 
+        {
+            "caps": 2, 
+            "captain": false, 
+            "name": "\u0130lkay G\u00fcndo\u011fan", 
+            "number": 2, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 6, 
+            "captain": false, 
+            "name": "Marcel Schmelzer", 
+            "number": 3, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 8, 
+            "captain": false, 
+            "name": "Benedikt H\u00f6wedes", 
+            "number": 4, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 19, 
+            "captain": false, 
+            "name": "Mats Hummels", 
+            "number": 5, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 32, 
+            "captain": false, 
+            "name": "Sami Khedira", 
+            "number": 6, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 95, 
+            "captain": false, 
+            "name": "Bastian Schweinsteiger", 
+            "number": 7, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 38, 
+            "captain": false, 
+            "name": "Mesut \u00d6zil", 
+            "number": 8, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 16, 
+            "captain": false, 
+            "name": "Andr\u00e9 Sch\u00fcrrle", 
+            "number": 9, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 101, 
+            "captain": false, 
+            "name": "Lukas Podolski", 
+            "number": 10, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 121, 
+            "captain": false, 
+            "name": "Miroslav Klose", 
+            "number": 11, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 6, 
+            "captain": false, 
+            "name": "Tim Wiese", 
+            "number": 12, 
+            "position": "GK"
+        }, 
+        {
+            "caps": 32, 
+            "captain": false, 
+            "name": "Thomas M\u00fcller", 
+            "number": 13, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 25, 
+            "captain": false, 
+            "name": "Holger Badstuber", 
+            "number": 14, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 9, 
+            "captain": false, 
+            "name": "Lars Bender", 
+            "number": 15, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 91, 
+            "captain": true, 
+            "name": "Philipp Lahm", 
+            "number": 16, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 81, 
+            "captain": false, 
+            "name": "Per Mertesacker", 
+            "number": 17, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 30, 
+            "captain": false, 
+            "name": "Toni Kroos", 
+            "number": 18, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 15, 
+            "captain": false, 
+            "name": "Mario G\u00f6tze", 
+            "number": 19, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 25, 
+            "captain": false, 
+            "name": "J\u00e9r\u00f4me Boateng", 
+            "number": 20, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 8, 
+            "captain": false, 
+            "name": "Marco Reus", 
+            "number": 21, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 1, 
+            "captain": false, 
+            "name": "Ron-Robert Zieler", 
+            "number": 22, 
+            "position": "GK"
+        }, 
+        {
+            "caps": 57, 
+            "captain": false, 
+            "name": "Mario G\u00f3mez", 
+            "number": 23, 
+            "position": "FW"
+        }
+    ]
+}

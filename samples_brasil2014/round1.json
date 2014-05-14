@@ -1,0 +1,34 @@
+{
+    "event": {
+        "key": "world.2014", 
+        "title": "World Cup 2014"
+    }, 
+    "games": [
+        {
+            "group": "A", 
+            "play_at": "2014/06/12 17:00 UTC-3", 
+            "score1": null, 
+            "score1ot": null, 
+            "score1p": null, 
+            "score2": null, 
+            "score2ot": null, 
+            "score2p": null, 
+            "stadium": "Arena Corinthians", 
+            "team1_code": "BRA", 
+            "team1_key": "bra", 
+            "team1_slot": null, 
+            "team1_title": "Brazil", 
+            "team2_code": "CRO", 
+            "team2_key": "cro", 
+            "team2_slot": null, 
+            "team2_title": "Croatia", 
+            "title": "W1-1"
+        }
+    ], 
+    "round": {
+        "end_at": "2014/06/12", 
+        "pos": 1, 
+        "start_at": "2014/06/12", 
+        "title": "Matchday 1"
+    }
+}

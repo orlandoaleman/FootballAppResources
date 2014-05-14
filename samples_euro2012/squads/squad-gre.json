@@ -1,0 +1,166 @@
+{
+    "coach": "Franciszek Smuda", 
+    "players": [
+        {
+            "caps": 32, 
+            "captain": false, 
+            "name": "Kostas Chalkias", 
+            "number": 1, 
+            "position": "GK"
+        }, 
+        {
+            "caps": 13, 
+            "captain": false, 
+            "name": "Giannis Maniatis", 
+            "number": 2, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 8, 
+            "captain": false, 
+            "name": "Giorgos Tzavelas", 
+            "number": 3, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 2, 
+            "captain": false, 
+            "name": "Stelios Malezas", 
+            "number": 4, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 12, 
+            "captain": false, 
+            "name": "Kyriakos Papadopoulos", 
+            "number": 5, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 13, 
+            "captain": false, 
+            "name": "Grigoris Makos", 
+            "number": 6, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 58, 
+            "captain": false, 
+            "name": "Georgios Samaras", 
+            "number": 7, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 34, 
+            "captain": false, 
+            "name": "Avraam Papadopoulos", 
+            "number": 8, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 76, 
+            "captain": false, 
+            "name": "Nikos Liberopoulos", 
+            "number": 9, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 120, 
+            "captain": true, 
+            "name": "Giorgos Karagounis", 
+            "number": 10, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 14, 
+            "captain": false, 
+            "name": "Kostas Mitroglou", 
+            "number": 11, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 16, 
+            "captain": false, 
+            "name": "Alexandros Tzorvas", 
+            "number": 12, 
+            "position": "GK"
+        }, 
+        {
+            "caps": 15, 
+            "captain": false, 
+            "name": "Michalis Sifakis", 
+            "number": 13, 
+            "position": "GK"
+        }, 
+        {
+            "caps": 60, 
+            "captain": false, 
+            "name": "Dimitris Salpingidis", 
+            "number": 14, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 48, 
+            "captain": false, 
+            "name": "Vasilis Torosidis", 
+            "number": 15, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 12, 
+            "captain": false, 
+            "name": "Georgios Fotakis", 
+            "number": 16, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 62, 
+            "captain": false, 
+            "name": "Theofanis Gekas", 
+            "number": 17, 
+            "position": "FW"
+        }, 
+        {
+            "caps": 22, 
+            "captain": false, 
+            "name": "Sotiris Ninis", 
+            "number": 18, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 31, 
+            "captain": false, 
+            "name": "Sokratis Papastathopoulos", 
+            "number": 19, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 7, 
+            "captain": false, 
+            "name": "Jos\u00e9 Holebas", 
+            "number": 20, 
+            "position": "DF"
+        }, 
+        {
+            "caps": 95, 
+            "captain": false, 
+            "name": "Kostas Katsouranis", 
+            "number": 21, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 5, 
+            "captain": false, 
+            "name": "Kostas Fortounis", 
+            "number": 22, 
+            "position": "MF"
+        }, 
+        {
+            "caps": 13, 
+            "captain": false, 
+            "name": "Giannis Fetfatzidis", 
+            "number": 23, 
+            "position": "MF"
+        }
+    ]
+}
