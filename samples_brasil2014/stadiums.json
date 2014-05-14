@@ -1,0 +1,16 @@
+{
+   "stadiums": {
+      "Arena Mineirão":   [-19.865833,-43.970833],
+      "Mané Garrincha":   [-15.7835,-47.899164],  
+      "Arena Pantanal":   [-15.603056,-56.120556],
+      "Arena da Baixada": [-25.448333,-49.276944],
+      "Estádio Castelão": [-3.807267,-38.522481], 
+      "Arena da Amazônia": [-3.083056,-60.028056], 
+      "Estádio das Dunas": [-5.828938,-35.213864], 
+      "Estádio Beira-Rio": [-30.065614,-51.236086],
+      "Arena Pernambuco": [-8.04,-35.008056],     
+      "Maracaná":         [-22.912167,-43.230164],
+      "Arena Fonte Nova": [-12.978611,-38.504167],
+      "Arena Corinthians":[-23.545531,-46.473372]
+   }
+}
