@@ -10,9 +10,9 @@ squadSizes = 23
 playerPattern = "{{nat fs g player.*$"
 captainPattern = "\(\[\[Captain \(association football\)\|c\]\]\)"
 namePattern = "\|name\s*=\s*\[\[(.*\|)?(.+)\]\]\s*(%s)?\s*\|age" % captainPattern
-numberPattern = "\|no\s*=\s*(\d+)\|"
-posPattern = "\|pos\s*=\s*(\w+)\|"
-capsPattern = "\|caps\s*=\s*(\d+)\|"
+numberPattern = "\|no\s*=\s*(\d+)\s*\|"
+posPattern = "\|pos\s*=\s*(\w+)\s*\|"
+capsPattern = "\|caps\s*=\s*(\d+)\s*\|"
 coachPattern = "Coach:\s*\[\[(.*)\]\]"
 
 if not os.path.exists("squads"):
