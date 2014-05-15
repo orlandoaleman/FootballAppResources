@@ -7,7 +7,7 @@ file = "squads.wiki"
 squadSizes = 23
 
 # Patters config
-playerPattern = "{{nat fs g player.*$"
+playerPattern = "{{nat fs( g)? player.*$"
 captainPattern = "\(\[\[Captain \(association football\)\|c\]\]\)"
 namePattern = "\|name\s*=\s*\[\[(.*\|)?(.+)\]\]\s*(%s)?\s*\|age" % captainPattern
 numberPattern = "\|no\s*=\s*(\d+)\s*\|"
